@@ -1,8 +1,3 @@
-Приятно ми е, Теодор! Сега ще генерирам пълния код за твоето приложение DualPay Calculator, като използвам избраните параметри и твоето име за футъра.
-
-Ето готовия HTML файл. Можеш да копираш този код, да го запишеш като index.html и да го качиш в твоя GitHub акаунт.
-+1
-
 HTML
 <!DOCTYPE html>
 <html lang="bg">
@@ -182,4 +177,5 @@ HTML
         document.head.appendChild(link);
     </script>
 </body>
+
 </html>
